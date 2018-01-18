@@ -16,8 +16,8 @@
 title: My thoughts
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is where I writedown ideas I have for different games.
-  It's my first step in my attempt to one day make them become a reality.
+  This is where I write down ideas I have for different games.
+  It's my first step in my attempt to make them become a reality.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
