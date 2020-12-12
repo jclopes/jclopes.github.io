@@ -4,6 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I'm passionate about games and arts in general.
-
-Some say I'm a dreamer. I like that.
+This blog is about my thoughts that I want to share with my future self and with anyone else that happends to find it.
